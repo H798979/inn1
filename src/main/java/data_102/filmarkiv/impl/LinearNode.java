@@ -6,7 +6,7 @@ public class LinearNode<T> {
 
     public LinearNode(T data) {
         this.data = data; 
-        this.next = next;
+        this.neste = neste;
     }
 
 }
